@@ -1,0 +1,5 @@
+FIRST-PORTFOLIO
+1. Angular 17 for UI
+2. NodeJS 16 for Backend
+3. ExpressJS as a web framework
+4. MongoDB as the database
